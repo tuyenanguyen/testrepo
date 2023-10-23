@@ -18,3 +18,4 @@ Operate in alignment with the key components of a successful project:
 <li>Ensure everyone in the team understand the assignments, plans, and strategies </li>
 <li>Complete individual tasks promptly to prevent any disruptions to fellow team members</li>
 <li>Notify project manager of any alterations or updates</li>
+<li>Contribute high-quality work to secure the success of the project</li>
